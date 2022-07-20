@@ -1,0 +1,3 @@
+com\example\news\service\NewsService.class
+com\example\news\NewsApplication.class
+com\example\news\controller\NewsController.class
